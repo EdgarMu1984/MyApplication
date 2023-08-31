@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="txtdatos">Datos</string>
+    <string name="hint_nombre">Introduce un texto</string>
+    <string name="hint_nombre2">Introduce otro texto</string>
+    <string name="hint_resultado">Resultado</string>
+
+</resources>
